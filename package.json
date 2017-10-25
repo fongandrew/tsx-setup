@@ -1,7 +1,7 @@
 {
-  "name": "tsx-starter",
+  "name": "tsx-opinions",
   "version": "1.0.0",
-  "description": "Starter for TypeScript / React / Webpack app",
+  "description": "Opinionated setup for TypeScript / React / Redux / Webpack app",
   "main": "index.js",
   "author": "Andrew Fong <id@andrewfong.com>",
   "license": "MIT",
