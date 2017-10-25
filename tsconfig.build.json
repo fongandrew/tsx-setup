@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "outDir": "./public"
+  },
+  "exclude": [
+    "node_modules",
+    "public",
+    "src/test-helpers",
+    "**/*.test.*"
+
+  ]
+}
